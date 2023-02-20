@@ -5,7 +5,7 @@
   gather_facts: no
 
   vars:
-    instance_id: "i-xxxxx"
+    instance_id: "i-xxxx"
 
   tasks:
     - name: Start EC2 instance
